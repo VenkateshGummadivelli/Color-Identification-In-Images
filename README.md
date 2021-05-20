@@ -1,4 +1,4 @@
-# Color-Identification-in-Images-
+# Color-Identification-In-Images
 ![113904710-fba7fb00-97ef-11eb-9c5f-c51529849263](https://user-images.githubusercontent.com/65329002/118939353-35326100-b96d-11eb-9ed2-12619cdd3636.png)
 
 
